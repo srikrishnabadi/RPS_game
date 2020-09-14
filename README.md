@@ -1,2 +1,3 @@
 # RPS_game
 This project is about the Rock Paper and Scissors game...
+this project is done using c++ code
